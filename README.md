@@ -12,6 +12,10 @@ when an intrusion is detected by a magnetic sensor.
 * [Bluetooth module for Arduino](http://amzn.com/B00TNOO438)
 * [Bluetooth dongle for Raspberry Pi](http://amzn.com/B00L08NCPQ)
 
-Connect above hardware elements as shown in the wiring diagram below:
+Steps:
+
+1. Connect above hardware elements as shown in the wiring diagram below:
 
 ![DIYAlarm](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Wiring%20screenshot.png)
+
+2. Once the hardware is configured, upload Arduino sketch to the board via USB.
