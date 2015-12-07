@@ -13,7 +13,7 @@ when an intrusion is detected by a magnetic sensor.
 * Jumper wires (comes as a part of Arduino kit)
 * [Bluetooth module for Arduino](http://amzn.com/B00TNOO438)
 * [Bluetooth dongle for Raspberry Pi](http://amzn.com/B00L08NCPQ)
-
+<br></br>
 
 Steps:
 
@@ -82,7 +82,11 @@ xi. Import [Android app](https://github.com/jpratik21/DIY-Burglar-Alarm/tree/mas
 xii. Deploy [cloud code](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/cloudcode.js) to the Parse. The step by step [guide](https://parse.com/docs/cloudcode/guide#command-line-a-simple-function) will help you in deploying.[Code acts a server that sends push notifications to the Android app installed in step xi]
 
 
-<br></br><br></br>
+<br></br>
 Overview of end system - DIY Burglar Alarm:
 
+![Overview image](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Overview.png)
+
+<br></br>
+For any questions, send an email on calpratik@gmail.com
 
