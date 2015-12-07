@@ -1,6 +1,6 @@
 DIY Burglar Alarm
 ================================================
-A microcontroller based buglar alarm that gives push notifications on Android phone
+A microcontroller based burglar alarm that gives push notifications on Android phone
 when an intrusion is detected by a magnetic sensor.
 
 ## Requirements
