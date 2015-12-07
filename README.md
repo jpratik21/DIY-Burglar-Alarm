@@ -5,9 +5,13 @@ when an intrusion is detected by a magnetic sensor.
 
 ## Requirements
 
-* Arduino Board
-* Raspberry Pi
-* Magnetic door switch
-* Jumper wires
-* Bluetooth module for Arduino
-* Bluetooth dongle for Raspberry Pi
+* [Arduino Board](http://amzn.com/B00D9M4BQU)
+* [Raspberry Pi](http://amzn.com/B00MV6TAJI)
+* [Magnetic door switch](http://www.adafruit.com/products/375#tutorials)
+* Jumper wires (comes as a part of Arduino kit)
+* [Bluetooth module for Arduino](http://amzn.com/B00TNOO438)
+* [Bluetooth dongle for Raspberry Pi](http://amzn.com/B00L08NCPQ)
+
+Connect above hardware elements as shown in the wiring diagram below:
+
+![DIYAlarm]()
