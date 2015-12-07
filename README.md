@@ -20,7 +20,7 @@ when an intrusion is detected by a magnetic sensor.
 
 i. Connect above hardware elements as shown in the wiring diagram below:
 
-![DIYAlarm](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Wiring%20screenshot.png)
+![DIYAlarm](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/wiring_screenshot.png)
 
 <br></br>
 ii. Once the hardware is configured, upload Arduino [sketch](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/arduinodata_pi.ino) to the board via USB.
