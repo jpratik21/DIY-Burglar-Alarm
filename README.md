@@ -15,7 +15,7 @@ when an intrusion is detected by a magnetic sensor.
 * [Bluetooth dongle for Raspberry Pi](http://amzn.com/B00L08NCPQ)
 <br></br>
 
-Steps:
+## Steps
 
 
 i. Connect above hardware elements as shown in the wiring diagram below:
@@ -83,10 +83,10 @@ xii. Deploy [cloud code](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/mas
 
 
 <br></br>
-Overview of end system - DIY Burglar Alarm:
+## Overview of DIY Burglar Alarm
 
 ![Overview image](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Overview.png)
 
 <br></br>
-For any questions, send an email on calpratik@gmail.com
+For any questions, send an email on <b>calpratik@gmail.com</b>
 
