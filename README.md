@@ -63,7 +63,7 @@ ser = serial.Serial('/dev/rfcomm1',9600,timeout=0)
 ``
 
 where /dev/rfcomm1 = tty address that has Arduino's BT module address info. Please
-refer to the guide in step 3 for additional details.
+refer to the guide in step iii for additional details.
 
 <br></br>
 x. Open the [switch](http://www.adafruit.com/products/375#tutorials) / seperate 2 parts of switch connected to Arduino.
