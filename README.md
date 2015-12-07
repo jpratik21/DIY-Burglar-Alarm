@@ -14,4 +14,4 @@ when an intrusion is detected by a magnetic sensor.
 
 Connect above hardware elements as shown in the wiring diagram below:
 
-![DIYAlarm]()
+![DIYAlarm](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Wiring%20screenshot.png)
