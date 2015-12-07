@@ -57,7 +57,7 @@ python parsepush.py
 
 <br></br>
 ix. Once you run this script on Pi, Raspberry Pi's BT dongle finds the address 
-of Arduino's BT module via Serial() method used in the script and connects to it:
+of Arduino's BT module via Serial( ) method used in the script and connects to Arduido's BT module:
 ``
 ser = serial.Serial('/dev/rfcomm1',9600,timeout=0)
 ``
