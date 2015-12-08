@@ -87,5 +87,6 @@ xii. Deploy [cloud code](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/mas
 ![Overview image](https://github.com/jpratik21/DIY-Burglar-Alarm/blob/master/Overview.png)
 
 <br></br>
-For any questions, send an email on <b>calpratik@gmail.com</b>
+## Contact
+calpratik@gmail.com
 
